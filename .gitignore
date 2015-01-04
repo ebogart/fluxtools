@@ -1,0 +1,11 @@
+*~
+*.pyc
+
+.SloppyCell/
+.fluxtools/
+
+ignore/
+temp*
+build/
+
+ipopt.opt
